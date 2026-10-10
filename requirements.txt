@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+PyAudio
+
+When terminal is open: 
+
+pip install -r requirements.txt
+python assistant.py
+
+
